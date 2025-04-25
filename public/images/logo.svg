@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Fondo circular con gradiente -->
+    <circle cx="100" cy="100" r="95" fill="url(#gradient)" />
+    
+    <!-- Símbolo del dinero estilizado -->
+    <path d="M100 50C89.2 50 80 59.2 80 70V75H70V85H80V115H70V125H80V130C80 140.8 89.2 150 100 150C110.8 150 120 140.8 120 130V125H130V115H120V85H130V75H120V70C120 59.2 110.8 50 100 50ZM100 60C105.6 60 110 64.4 110 70V75H90V70C90 64.4 94.4 60 100 60ZM90 85H110V115H90V85ZM90 125H110V130C110 135.6 105.6 140 100 140C94.4 140 90 135.6 90 130V125Z" fill="white"/>
+    
+    <!-- Definición del gradiente -->
+    <defs>
+        <linearGradient id="gradient" x1="0" y1="0" x2="200" y2="200" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" style="stop-color:#4F46E5"/>
+            <stop offset="100%" style="stop-color:#818CF8"/>
+        </linearGradient>
+    </defs>
+</svg> 
